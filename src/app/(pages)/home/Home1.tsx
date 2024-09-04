@@ -76,7 +76,7 @@ export default function Home1({}: Home1Props) {
             <Col className={` ${style.aniRight} mb-3`}>
               <Carousel
                 fade
-                controls={false}
+                controls={true}
                 indicators={false}
                 className={`${style.carousel} shadow-sm`}
               >
