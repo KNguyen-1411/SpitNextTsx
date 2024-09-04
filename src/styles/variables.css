@@ -1,0 +1,48 @@
+:root{
+    --theme: #003056;
+    --theme-bg-color: #003056;
+    --theme-text-color: #ffffff;
+    --main-bg: #FFFFFF;
+    --main-text: rgb(53, 49, 56);
+    --body-color: #f5f5f5f5;
+    --hh:#003056;
+    --home1: #d5e5ff;
+    --home3:#d5e5ff;
+    --ovl1: #63defa;
+    --ovl2: #fff04fad;
+    --ovl3: #ffdaf9a5;
+    --bgqa:#ccdced94;
+    --mt:white;
+    --wave: #8EF4FA;
+    --main-page-news:rgb(255, 255, 255);
+    --page-news:rgb(225, 254, 255);
+    --btn-page: white;
+    --card: #eefdff;
+    --wave2: #87D8F6;
+    --bg-form: #cdfaff;
+}
+
+
+[data-theme="dark"] {
+    --theme: #0D1117;
+    --theme-bg-color: #161B22;
+    --theme-text-color: #000000;
+    --main-bg: #161B22;
+    --main-text: #e7e7e7f5;
+    --body-color: #161B22;
+    --hh:#0d62e1;
+    --home1: #485c7d78;
+    --home3:#644f6e95;
+    --ovl1: #53828d;
+    --ovl2: #a29d5fdc;
+    --ovl3: #8f6086a5;
+    --bgqa:#393e4259;
+    --mt:rgb(158, 158, 186);
+    --wave: #ec95ff;
+    --main-page-news:#393e42;
+    --page-news: #393e4259;
+    --btn-page: #434343;
+    --card: #3b3b3b;
+    --wave2: #11245C;
+    --bg-form: #272c4875;
+}

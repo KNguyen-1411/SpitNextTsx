@@ -1,0 +1,84 @@
+{
+  "newsData": [
+    {
+      "title": "Chúc mừng đội thi HUSC_Newbie đạt Huy chương Bạc tại cuộc thi lập trình Da Nang Code League năm 2024",
+      "content": "Chúc mừng đội thi HUSC_Newbie đạt Huy chương Bạc tại cuộc thi lập trình Da Nang Code League năm 2024",
+      "imgSrc": "doi-thi-husc.png",
+      "linkto": "/news/doi-thi-husc"
+    },
+    {
+      "title": "THÔNG BÁO CUỘC THI \"SPIT FRONT END",
+      "content": "Nhằm mục đích tạo ra một sân chơi sáng tạo và phát huy tinh thần tự học, tìm hiểu của các bạn trong CLB Hỗ trợ Lập trình (SPIT), từ đó tìm ra được bài thi sử dụng làm trang web của CLB sau này, Ban Chủ nhiệm CLB SPIT Khóa 1 tổ chức cuộc thi \"SPIT Front End\" lần thứ nhất.",
+      "imgSrc": "spit-front-end.png",
+      "linkto": "/news/cuoc-thi-front-end"
+    },
+    {
+      "title": "Flex phó chủ nhiệm Ngô Văn Hải",
+      "content": "Anh Ngô Văn Hải hiện đang là Sinh viên Khoa Công nghệ thông tin khóa K45 đang theo học chuyên ngành Khoa học máy tính tại Khoa. Và Anh cũng đang giữ chức vụ Phó chủ nhiệm CLB SPIT.",
+      "imgSrc": "flex-anh-hai.png",
+      "linkto": "/news/flex-anh-ngo-van-hai"
+    },
+    {
+      "title": "Thông báo mở cửa phòng tự học dành cho các bạn khoa công nghệ thông tin",
+      "content": "Tuần sắp tới sẽ là tuần cuối cùng trước khi bước vào kỳ thi kết thúc học phần. Vì vậy, với mong muốn đem đến cho các bạn khoa Công nghệ thông tin một không gian học tập ngay tại trường, có cơ sở vật chất hiện đại và tâm thế chuẩn bị thật tốt cho kỳ thi",
+      "imgSrc": "mo-cua-tuhoc.png",
+      "linkto": "/news/mo-cua-tu-hoc"
+    },
+    {
+      "title": "TỔNG KẾT SPIT NEWBIE CONTEST 04",
+      "content": "Sau khoảng thời gian vắng bóng, SPIT Contest đã quay trở lại với bộ đề tương đối thử thách hơn. Dù vậy, các bạn thí sinh đã rất cố gắng để chinh phục bộ đề mà chúng mình đưa ra. Chúng mình xin được chúc mừng BaoJiaoPisu2 đã xuất sắc dẫn đầu contest lần này với số điểm tuyệt đối - 400 điểm!",
+      "imgSrc": "contest4.png",
+      "linkto": "/news/tongket-contest-04"
+    },
+    {
+      "title": "Chúc mừng đội thi HUSC_Newbie đạt Huy chương Bạc tại cuộc thi lập trình Da Nang Code League năm 2024",
+      "content": "Chúc mừng đội thi HUSC_Newbie đạt Huy chương Bạc tại cuộc thi lập trình Da Nang Code League năm 2024",
+      "imgSrc": "doi-thi-husc.png",
+      "linkto": "/news/doi-thi-husc"
+    },
+    {
+      "title": "THÔNG BÁO CUỘC THI \"SPIT FRONT END",
+      "content": "Nhằm mục đích tạo ra một sân chơi sáng tạo và phát huy tinh thần tự học, tìm hiểu của các bạn trong CLB Hỗ trợ Lập trình (SPIT), từ đó tìm ra được bài thi sử dụng làm trang web của CLB sau này, Ban Chủ nhiệm CLB SPIT Khóa 1 tổ chức cuộc thi \"SPIT Front End\" lần thứ nhất.",
+      "imgSrc": "spit-front-end.png",
+      "linkto": "/news/cuoc-thi-front-end"
+    },
+    {
+      "title": "Flex phó chủ nhiệm Ngô Văn Hải",
+      "content": "Anh Ngô Văn Hải hiện đang là Sinh viên Khoa Công nghệ thông tin khóa K45 đang theo học chuyên ngành Khoa học máy tính tại Khoa. Và Anh cũng đang giữ chức vụ Phó chủ nhiệm CLB SPIT.",
+      "imgSrc": "flex-anh-hai.png",
+      "linkto": "/news/flex-anh-ngo-van-hai"
+    },
+    {
+      "title": "Thông báo mở cửa phòng tự học dành cho các bạn khoa công nghệ thông tin",
+      "content": "Tuần sắp tới sẽ là tuần cuối cùng trước khi bước vào kỳ thi kết thúc học phần. Vì vậy, với mong muốn đem đến cho các bạn khoa Công nghệ thông tin một không gian học tập ngay tại trường, có cơ sở vật chất hiện đại và tâm thế chuẩn bị thật tốt cho kỳ thi",
+      "imgSrc": "mo-cua-tuhoc.png",
+      "linkto": "/news/mo-cua-tu-hoc"
+    },
+    {
+      "title": "TỔNG KẾT SPIT NEWBIE CONTEST 04",
+      "content": "Sau khoảng thời gian vắng bóng, SPIT Contest đã quay trở lại với bộ đề tương đối thử thách hơn. Dù vậy, các bạn thí sinh đã rất cố gắng để chinh phục bộ đề mà chúng mình đưa ra. Chúng mình xin được chúc mừng BaoJiaoPisu2 đã xuất sắc dẫn đầu contest lần này với số điểm tuyệt đối - 400 điểm!",
+      "imgSrc": "contest4.png",
+      "linkto": "/news/tongket-contest-04"
+    }
+  ],
+  "hotNews": [
+    {
+      "title": "Wordshop cùng các bạn sinh viên Khoa Công nghệ thông tin",
+      "imgSrc": "workshop.png",
+      "linkto": "/news/work-shop-sinh-vien",
+      "hh": "h4"
+    },
+    {
+      "title": "SEMINAR “KNOWLEDGE, SKILLS AND APPLICATIONS",
+      "imgSrc": "semninar.png",
+      "linkto": "/news/seminar-knowledge-skills-and-applications",
+      "hh": "h6"
+    },
+    {
+      "title": "Cuộc thi Front-end",
+      "imgSrc": "spit-front-end.png",
+      "linkto": "/news/cuoc-thi-front-end",
+      "hh": "h6"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "spit",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "export": "next build && next export"
+  },
+  "dependencies": {
+    "aos": "^2.3.4",
+    "bootstrap": "^5.3.3",
+    "dompurify": "^3.1.6",
+    "next": "14.2.5",
+    "nextjs-toploader": "^1.6.12",
+    "react": "^18",
+    "react-bootstrap": "^2.10.4",
+    "react-dom": "^18",
+    "react-scroll": "^1.9.0",
+    "sharp": "^0.33.5"
+  },
+  "devDependencies": {
+    "@types/aos": "^3.0.7",
+    "@types/dompurify": "^3.0.5",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@types/react-scroll": "^1.8.10",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.5",
+    "typescript": "^5"
+  }
+}

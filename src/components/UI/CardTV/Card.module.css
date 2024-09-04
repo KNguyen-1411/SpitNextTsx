@@ -1,0 +1,68 @@
+.card {
+    position: relative;
+    width: 180px;
+    min-height: 70px;
+    margin: 10px 0 100px 0;
+}
+
+.card img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    transition: width 0.5s ease, height 0.5s ease;
+}
+.gen1{
+    outline: 5px solid rgb(99, 203, 255);
+}
+.gen0{
+    outline: 5px solid rgb(255, 113, 201);
+}
+.cardabs {
+    left: 0;
+    right: 0;
+    cursor: pointer;
+    text-align: center;
+    position: absolute;
+    width: 100%;
+    display: flex;
+    gap: 5px;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    transition: background-color 0.5s ease;
+    border-radius: 50px;
+    background-color: transparent;
+    z-index: 1;
+}
+.card:hover img {
+    width: 120px;
+    height: 120px;
+}
+.cardabs:hover {
+    z-index: 11;
+    background-color: rgb(127, 229, 255);
+}
+.cardabsGirl:hover{
+    background-color: rgb(252, 199, 255);
+}
+.cardabs div {
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.5s ease, visibility 0.5s ease;
+}
+
+.cardabs:hover div {
+    opacity: 1;
+    visibility: visible;
+}
+
+@media screen and (max-width: 768px) {
+    .card {
+        width: 170px;
+        min-height: 120px; 
+    }
+    .card img {
+        width: 70px;
+        height: 70px;
+    }
+}

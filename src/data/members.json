@@ -1,0 +1,550 @@
+[
+  {
+    "members": [
+      {
+        "name": "Ngô Văn Hải",
+        "gender": 1,
+        "sdt": 934766830,
+        "gmail": "21t1020340@husc.edu.vn",
+        "class": "CNTT K45F",
+        "role": [
+          {
+            "name": "Ban chủ nhiệm"
+          }
+        ],
+        "achievement": [
+          {
+            "name": "Thành tích 1"
+          }
+        ],
+        "img": "nvhai.JPG"
+      },
+      {
+        "name": "Lê Sỹ Toàn",
+        "gender": 1,
+        "sdt": 934094936,
+        "gmail": "21t1020088@husc.edu.vn",
+        "class": "CNTT K45F",
+        "role": [
+          {
+            "name": "Ban chủ nhiệm"
+          }
+        ],
+        "achievement": [
+          {
+            "name": "Thành tích 1"
+          }
+        ],
+        "img": "lstoan.JPG"
+      },
+      {
+        "name": "Hoàng Hạnh Diệu Anh",
+        "gender": 0,
+        "sdt": 964349631,
+        "gmail": "21T1020228@husc.edu.vn",
+        "class": "CNTT K45E",
+        "role": [
+          {
+            "name": "Thành viên"
+          }
+        ],
+        "achievement": [
+          {
+            "name": "Thành tích 1"
+          }
+        ],
+        "img": "htdanh.JPG"
+      },
+      {
+        "name": "Trần Xuân Trường",
+        "gender": 1,
+        "sdt": 967549478,
+        "gmail": "22T1020784@husc.edu.vn",
+        "class": "CNTT K46B",
+        "role": [
+          {
+            "name": "Thành viên"
+          }
+        ],
+        "achievement": [
+          {
+            "name": "Thành tích 1"
+          }
+        ],
+        "img": "txtruong.JPG"
+      },
+      {
+        "name": "Huỳnh Thị Thanh Thúy ",
+        "gender": 0,
+        "sdt": 365304935,
+        "gmail": "22T1020456@husc.edu.vn",
+        "class": "CNTT K46E",
+        "role": [
+          {
+            "name": "Thành viên"
+          }
+        ],
+        "achievement": [
+          {
+            "name": "Thành tích 1"
+          }
+        ],
+        "img": "thuy.JPG"
+      },
+      {
+        "name": "Đào Quang Thuận",
+        "gender": 1,
+        "sdt": 328615104,
+        "gmail": "22T1020755@husc.edu.vn",
+        "class": "CNTT K46C",
+        "role": [
+          {
+            "name": "Thành viên"
+          }
+        ],
+        "achievement": [
+          {
+            "name": "Thành tích 1"
+          }
+        ],
+        "img": "dqthuan.JPG"
+      },
+      {
+        "name": "Lê Đức Long",
+        "gender": 1,
+        "sdt": 358081370,
+        "gmail": "22t1020215@husc.edu.vn",
+        "class": "CNTT K46K",
+        "role": [
+          {
+            "name": "Thành viên"
+          }
+        ],
+        "achievement": [
+          {
+            "name": "Thành tích 1"
+          }
+        ],
+        "img": "ldlong.jpeg"
+      },
+      {
+        "name": "Lý Ngọc Đế",
+        "gender": 1,
+        "sdt": 817021069,
+        "gmail": "22T1080053@husc.edu.vn",
+        "class": "KTPM K46A",
+        "role": [
+          {
+            "name": "Thành viên"
+          }
+        ],
+        "achievement": [
+          {
+            "name": "Thành tích 1"
+          }
+        ],
+        "img": "lnde.JPG"
+      },
+      {
+        "name": "Hoàng Bảo Khánh",
+        "gender": 1,
+        "sdt": 911544246,
+        "gmail": "22t1020637@husc.edu.vn",
+        "class": "CNTT K46E",
+        "role": [
+          {
+            "name": "Ban chủ nhiệm"
+          }
+        ],
+        "achievement": [
+          {
+            "name": "Thành tích 1"
+          }
+        ],
+        "img": "hbk.JPG"
+      },
+      {
+        "name": "Trương Đoàn",
+        "gender": 1,
+        "sdt": 337768233,
+        "gmail": "21t1020306@husc.edu.vn",
+        "class": "CNTT K45H",
+        "role": [
+          {
+            "name": "Thành viên"
+          }
+        ],
+        "achievement": [
+          {
+            "name": "Thành tích 1"
+          }
+        ],
+        "img": "tdoan.JPG"
+      },
+      {
+        "name": "Hoàng Hào",
+        "gender": 1,
+        "sdt": 378885357,
+        "gmail": "21t1020347@husc.edu.vn",
+        "class": "CNTT K45D",
+        "role": [
+          {
+            "name": "Thành viên"
+          }
+        ],
+        "achievement": [
+          {
+            "name": "Thành tích 1"
+          }
+        ],
+        "img": "hhao.png"
+      },
+      {
+        "name": "Nguyễn Thanh Phong",
+        "gender": 1,
+        "sdt": 868170633,
+        "gmail": "22t1020316@husc.edu.vn",
+        "class": "CNTT K46E",
+        "role": [
+          {
+            "name": "Thành viên"
+          }
+        ],
+        "achievement": [
+          {
+            "name": "Thành tích 1"
+          }
+        ],
+        "img": "ntphong.JPG"
+      },
+      {
+        "name": "Lê Phi Phát ",
+        "gender": 1,
+        "sdt": 835959692,
+        "gmail": "21t1080027@husc.edu.vn",
+        "class": "KTPM K45",
+        "role": [
+          {
+            "name": "Thành viên"
+          }
+        ],
+        "achievement": [
+          {
+            "name": "Thành tích 1"
+          }
+        ],
+        "img": "logo.png"
+      },
+      {
+        "name": "Lê Quang Đạt",
+        "gender": 1,
+        "sdt": 931961280,
+        "gmail": "22t1020065@husc.edu.vn",
+        "class": "CNTT K46A",
+        "role": [
+          {
+            "name": "Thành viên"
+          }
+        ],
+        "achievement": [
+          {
+            "name": "Thành tích 1"
+          }
+        ],
+        "img": "lqdat.JPG"
+      }
+    ]
+  },
+  {
+    "members": [
+      {
+        "name": "Đoàn Ngọc Trân Châu",
+        "gender": 0,
+        "sdt": 914738704,
+        "gmail": "23t1020058@husc.edu.vn",
+        "class": "CNTT K47A",
+        "role": [
+          {
+            "name": "Thành viên"
+          }
+        ],
+        "achievement": [
+          {
+            "name": "Thành tích 1"
+          }
+        ],
+        "img": "dncchau.JPG"
+      },
+      {
+        "name": "Nguyễn Ngọc Tố Linh",
+        "gender": 0,
+        "sdt": 775571037,
+        "gmail": "23t1020300@husc.edu.vn",
+        "class": "CNTT K47A",
+        "role": [
+          {
+            "name": "Thành viên"
+          }
+        ],
+        "achievement": [
+          {
+            "name": "Thành tích 1"
+          }
+        ],
+        "img": "ToLinh.JPG"
+      },
+      {
+        "name": "Trương Đình Phúc ",
+        "gender": 1,
+        "sdt": 339592404,
+        "gmail": "23t1020395@husc.edu.vn",
+        "class": "CNTT K47D",
+        "role": [
+          {
+            "name": "Thành viên"
+          }
+        ],
+        "achievement": [
+          {
+            "name": "Thành tích 1"
+          }
+        ],
+        "img": "tdphuc.png"
+      },
+      {
+        "name": "Phạm Hoàng Hải",
+        "gender": 1,
+        "sdt": 362447914,
+        "gmail": "23t1020148@husc.edu.vn",
+        "class": "CNTT K47J",
+        "role": [
+          {
+            "name": "Thành viên"
+          }
+        ],
+        "achievement": [
+          {
+            "name": "Thành tích 1"
+          }
+        ],
+        "img": "hhai.jpg"
+      },
+      {
+        "name": "Nguyễn Hiếu Thiện",
+        "gender": 1,
+        "sdt": 799713623,
+        "gmail": "23t1020509@husc.edu.vn",
+        "class": "CNTT K47I",
+        "role": [
+          {
+            "name": "Thành viên"
+          }
+        ],
+        "achievement": [
+          {
+            "name": "Thành tích 1"
+          }
+        ],
+        "img": "logo.png"
+      },
+      {
+        "name": "Ngô Lê Nam Quyền",
+        "gender": 1,
+        "sdt": 384805215,
+        "gmail": "23t1020436@husc.edu.vn",
+        "class": "CNTT K47H",
+        "role": [
+          {
+            "name": "Thành viên"
+          }
+        ],
+        "achievement": [
+          {
+            "name": "Thành tích 1"
+          }
+        ],
+        "img": "nlnquyen.jpg"
+      },
+      {
+        "name": "Trần Thị Khánh Linh",
+        "gender": 0,
+        "sdt": 842014164,
+        "gmail": "23t1020302@husc.edu.vn",
+        "class": "CNTT K47A",
+        "role": [
+          {
+            "name": "Thành viên"
+          }
+        ],
+        "achievement": [
+          {
+            "name": "Thành tích 1"
+          }
+        ],
+        "img": "ttkl.JPG"
+      },
+      {
+        "name": "Nguyễn Khánh Linh",
+        "gender": 0,
+        "sdt": 382928102,
+        "gmail": "22T1020201@husc.edu.vn",
+        "class": "CNTT K46E",
+        "role": [
+          {
+            "name": "Thành viên"
+          }
+        ],
+        "achievement": [
+          {
+            "name": "Thành tích 1"
+          }
+        ],
+        "img": "nklinh.JPG"
+      },
+      {
+        "name": "Bạch Thị Thiện Thanh",
+        "gender": 0,
+        "sdt": 332316881,
+        "gmail": "22T1020745@husc.edu.vn",
+        "class": "CNTT K46E",
+        "role": [
+          {
+            "name": "Thành viên"
+          }
+        ],
+        "achievement": [
+          {
+            "name": "Thành tích 1"
+          }
+        ],
+        "img": "bbtthanh.JPG"
+      },
+      {
+        "name": "Nguyễn Đình Khánh Nguyên ",
+        "gender": 1,
+        "sdt": 332961625,
+        "gmail": "23t1080051@husc.edu.vn",
+        "class": "KTPM K47B",
+        "role": [
+          {
+            "name": "Thành viên"
+          }
+        ],
+        "achievement": [
+          {
+            "name": "Thành tích 1"
+          }
+        ],
+        "img": "knguyen.JPG"
+      },
+      {
+        "name": "Nguyễn Quốc Đạt",
+        "gender": 1,
+        "sdt": 981635875,
+        "gmail": "23t1080004@husc.edu.vn",
+        "class": "KTPM K47B",
+        "role": [
+          {
+            "name": "Thành viên"
+          }
+        ],
+        "achievement": [
+          {
+            "name": "Thành tích 1"
+          }
+        ],
+        "img": "nqdat.jpg"
+      },
+      {
+        "name": "Trương Ngọc Nhật Tùng",
+        "gender": 1,
+        "sdt": 339143447,
+        "gmail": "22T1020500@husc.edu.vn",
+        "class": "CNTT K46N",
+        "role": [
+          {
+            "name": "Thành viên"
+          }
+        ],
+        "achievement": [
+          {
+            "name": "Thành tích 1"
+          }
+        ],
+        "img": "ttntung.jpg"
+      },
+      {
+        "name": "Nguyễn Thị Hằng My",
+        "gender": 0,
+        "sdt": 796504801,
+        "gmail": "23t1020339@husc.edu.vn",
+        "class": "CNTT K47J",
+        "role": [
+          {
+            "name": "Thành viên"
+          }
+        ],
+        "achievement": [
+          {
+            "name": "Thành tích 1"
+          }
+        ],
+        "img": "nthmy.JPG"
+      },
+      {
+        "name": "Ngô Quang Trường",
+        "gender": 1,
+        "sdt": 339140405,
+        "gmail": "23T1020573@husc.edu.vn",
+        "class": "CNTT K47J",
+        "role": [
+          {
+            "name": "Thành viên"
+          }
+        ],
+        "achievement": [
+          {
+            "name": "Thành tích 1"
+          }
+        ],
+        "img": "nqt.JPG"
+      },
+      {
+        "name": "Lê Quang Tuyến",
+        "gender": 1,
+        "sdt": 971846498,
+        "gmail": "22t1020506@husc.edu.vn",
+        "class": "CNTT K46A",
+        "role": [
+          {
+            "name": "Thành viên"
+          }
+        ],
+        "achievement": [
+          {
+            "name": "Thành tích 1"
+          }
+        ],
+        "img": "lqtuyen.JPG"
+      },
+      {
+        "name": "Lê Nguyễn Gia Hân ",
+        "gender": 0,
+        "sdt": 886109304,
+        "gmail": "22t1020102@husc.edu.vn",
+        "class": "CNTT K46E",
+        "role": [
+          {
+            "name": "Thành viên"
+          }
+        ],
+        "achievement": [
+          {
+            "name": "Thành tích 1"
+          }
+        ],
+        "img": "ghan.JPG"
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+.h5h6:hover h5, .h5h6:hover h6{
+    color: rgb(37, 171, 255);
+}
+.imghv{
+    position: relative;
+    overflow: hidden;
+    border-radius: 20px;
+}
+.imghv img{
+    transition: all 0.3s ease;
+}
+.h5h6:hover h5, .h5h6:hover h6{
+    color: rgb(37, 171, 255);
+}
+.imghv:hover img{
+    transform: scale(1.1);
+    filter: brightness(1.1);
+}
+.ImgBanner{
+    object-fit: cover;
+    height: 100px;
+}
+@media screen and (max-width: 992px){
+    .ImgBanner{
+        height: 300px;
+    }
+}
+@media screen and (max-width: 768px){
+    .ImgBanner{
+        height: 300px;
+    }
+}
+@media screen and (max-width: 576px){
+    .ImgBanner{
+        height: 200px;
+    }
+}
